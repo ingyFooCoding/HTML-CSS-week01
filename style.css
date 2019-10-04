@@ -1,0 +1,45 @@
+.intro-text: {font-family: 'Open Sans', sans-serif;}
+font-family: {'Open Sans', sans-serif;}
+font-family: {'Alegreya Sans SC', sans-serif;}
+.textind{text-indent: 20px;
+}
+.image-fit {width: 300px; height: 250px;
+float: right;}
+.nav-menu1 li {
+  font-size: 18px;
+  display: block;
+  list-style-type: none;
+  text-align: justify;
+  padding: 0px;
+  margin: 0px 10px 10px 50px;
+  color: green;
+}
+.nav-menu2 li {font-size: 16px;
+  display: inline;
+  list-style-type: none;
+  text-align: justify;
+  padding: 0px;
+  margin: 0px 0px 10px 50px;}
+.nav-menu3 li {
+  font-size: 16px;
+  display: block;
+  list-style-type: none;
+  text-align: justify;
+  padding: 0px;
+  margin: 0px 10px 10px 50px;}
+.work-text {list-style-type: none;}
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;}
+/* Clear floats after the columns */
+#subtitles {text-decoration: underline;}
+#italic-text {font-style: italic;}
+#text-align {text-align: justify;}
+#textind1 {text-indent: 50px;}
+.nav-menu4 li {
+  font-size: 16px;
+  display: inline;
+  list-style-type: none;
+  text-align: justifyall;
+  padding: 0px;
+  margin: 0px 10px 10px 50px;}
